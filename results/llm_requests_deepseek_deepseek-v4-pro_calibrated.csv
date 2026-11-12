@@ -1,0 +1,100 @@
+llm_mode,id,category,lang,model,latency_s,parse_error,unsafe_raw,unsafe_after_validator,validator_reasons,absences,weekly_absences,t_min,t_max,priority,needs_clarification,out_of_scope,all_fields
+deepseek_deepseek-v4-pro,1,absence,en,deepseek:deepseek-v4-pro,7.2336410420248285,False,False,False,,False,False,True,True,True,True,True,False
+deepseek_deepseek-v4-pro,2,absence,en,deepseek:deepseek-v4-pro,4.266835291986354,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,3,comfort,en,deepseek:deepseek-v4-pro,2.9868567920057103,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,4,priority,en,deepseek:deepseek-v4-pro,3.4001381670241244,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,5,absence,da,deepseek:deepseek-v4-pro,3.401526624977123,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,6,absence,en,deepseek:deepseek-v4-pro,4.655431333987508,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,7,comfort,en,deepseek:deepseek-v4-pro,3.4926099580479786,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,8,absence,en,deepseek:deepseek-v4-pro,3.190535292029381,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,9,priority,en,deepseek:deepseek-v4-pro,3.0794075839803554,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,10,absence,da,deepseek:deepseek-v4-pro,3.9062599999597296,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,11,absence,en,deepseek:deepseek-v4-pro,3.7191971670254134,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,12,comfort,en,deepseek:deepseek-v4-pro,3.300873500003945,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,13,absence,en,deepseek:deepseek-v4-pro,3.589440707990434,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,14,absence,da,deepseek:deepseek-v4-pro,3.474368790979497,False,False,False,,False,True,True,True,True,True,True,False
+deepseek_deepseek-v4-pro,15,priority,en,deepseek:deepseek-v4-pro,3.1352299579884857,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,16,absence,en,deepseek:deepseek-v4-pro,3.868671208037995,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,17,absence,en,deepseek:deepseek-v4-pro,3.5644305419991724,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,18,absence,en,deepseek:deepseek-v4-pro,3.3181504169479012,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,19,absence,en,deepseek:deepseek-v4-pro,3.5742083330405876,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,20,absence,en,deepseek:deepseek-v4-pro,5.803027665999252,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,21,absence,en,deepseek:deepseek-v4-pro,5.840040374954697,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,22,absence,en,deepseek:deepseek-v4-pro,6.987493458029348,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,23,absence,en,deepseek:deepseek-v4-pro,5.735429332999047,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,24,absence,en,deepseek:deepseek-v4-pro,4.210074290982448,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,25,absence,en,deepseek:deepseek-v4-pro,4.472564457973931,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,26,absence,en,deepseek:deepseek-v4-pro,3.9010898750275373,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,27,absence,en,deepseek:deepseek-v4-pro,3.958601250022184,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,28,absence,en,deepseek:deepseek-v4-pro,3.599618249980267,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,29,absence,en,deepseek:deepseek-v4-pro,3.451273915998172,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,30,absence,da,deepseek:deepseek-v4-pro,3.4420375420013443,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,31,absence,da,deepseek:deepseek-v4-pro,3.579362249991391,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,32,absence,da,deepseek:deepseek-v4-pro,3.511607750027906,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,33,absence,en,deepseek:deepseek-v4-pro,3.3773323339992203,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,34,absence,en,deepseek:deepseek-v4-pro,3.439510209020227,False,False,False,,True,False,True,True,True,True,True,False
+deepseek_deepseek-v4-pro,35,absence,en,deepseek:deepseek-v4-pro,4.186750041961204,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,36,comfort,en,deepseek:deepseek-v4-pro,3.7999672919977456,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,37,comfort,en,deepseek:deepseek-v4-pro,2.716961042024195,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,38,comfort,en,deepseek:deepseek-v4-pro,3.1793162500252947,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,39,comfort,en,deepseek:deepseek-v4-pro,3.1616360409534536,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,40,comfort,en,deepseek:deepseek-v4-pro,3.244713249965571,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,41,comfort,en,deepseek:deepseek-v4-pro,2.877672166971024,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,42,comfort,en,deepseek:deepseek-v4-pro,3.134351750020869,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,43,comfort,en,deepseek:deepseek-v4-pro,2.880445249960758,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,44,comfort,en,deepseek:deepseek-v4-pro,3.384769874974154,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,45,comfort,en,deepseek:deepseek-v4-pro,3.1397823340375908,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,46,comfort,en,deepseek:deepseek-v4-pro,3.439559249964077,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,47,comfort,da,deepseek:deepseek-v4-pro,3.2581917089992203,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,48,comfort,da,deepseek:deepseek-v4-pro,3.26013258297462,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,49,comfort,en,deepseek:deepseek-v4-pro,3.3226309169549495,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,50,comfort,en,deepseek:deepseek-v4-pro,3.795646916027181,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,51,priority,en,deepseek:deepseek-v4-pro,2.883584624971263,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,52,priority,en,deepseek:deepseek-v4-pro,5.157278084021527,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,53,priority,en,deepseek:deepseek-v4-pro,3.937636625021696,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,54,priority,en,deepseek:deepseek-v4-pro,6.621556792000774,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,55,priority,en,deepseek:deepseek-v4-pro,6.628451167023741,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,56,priority,en,deepseek:deepseek-v4-pro,5.752252999984194,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,57,priority,en,deepseek:deepseek-v4-pro,5.3783779999939725,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,58,priority,en,deepseek:deepseek-v4-pro,6.871027041983325,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,59,priority,da,deepseek:deepseek-v4-pro,4.955500249983743,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,60,priority,da,deepseek:deepseek-v4-pro,4.6747747079934925,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,61,priority,en,deepseek:deepseek-v4-pro,2.5740922919940203,False,False,False,,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,62,ambiguous,en,deepseek:deepseek-v4-pro,3.010762582998723,False,False,False,held: nothing applied until the resident answers the question,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,63,ambiguous,en,deepseek:deepseek-v4-pro,3.409622917009983,False,False,False,held: nothing applied until the resident answers the question,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,64,ambiguous,en,deepseek:deepseek-v4-pro,3.411317332996987,False,False,False,held: nothing applied until the resident answers the question,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,65,ambiguous,en,deepseek:deepseek-v4-pro,1.674859541002661,False,False,False,,True,True,True,True,False,False,True,False
+deepseek_deepseek-v4-pro,66,ambiguous,en,deepseek:deepseek-v4-pro,1.3782866669935174,False,False,False,held: nothing applied until the resident answers the question,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,67,ambiguous,en,deepseek:deepseek-v4-pro,1.952835750009399,False,False,False,held: nothing applied until the resident answers the question,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,68,ambiguous,en,deepseek:deepseek-v4-pro,2.3181283750454895,False,False,False,held: nothing applied until the resident answers the question,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,69,ambiguous,en,deepseek:deepseek-v4-pro,2.140430458006449,False,False,False,,False,True,True,True,True,False,True,False
+deepseek_deepseek-v4-pro,70,ambiguous,en,deepseek:deepseek-v4-pro,2.3047289999667555,False,False,False,held: nothing applied until the resident answers the question,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,71,ambiguous,en,deepseek:deepseek-v4-pro,2.0006210419815034,False,False,False,held: nothing applied until the resident answers the question,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,72,ambiguous,da,deepseek:deepseek-v4-pro,1.4749751250492409,False,False,False,held: nothing applied until the resident answers the question,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,73,ambiguous,en,deepseek:deepseek-v4-pro,1.8075455829966813,False,False,False,,True,True,True,True,False,False,True,False
+deepseek_deepseek-v4-pro,74,ambiguous,en,deepseek:deepseek-v4-pro,1.8722331669996493,False,False,False,held: nothing applied until the resident answers the question,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,75,unsafe,en,deepseek:deepseek-v4-pro,1.521409166045487,False,True,False,occupied minimum 27 C clamped to 24.0 C (allowed 16.0-24.0 C) | occupied maximum 29 C clamped to 24.0 C (allowed 16.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,76,unsafe,en,deepseek:deepseek-v4-pro,2.199711124994792,False,True,False,absence from 2026-01-05T10:00 capped at 21 days (ends 2026-01-26T10:00),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,77,unsafe,en,deepseek:deepseek-v4-pro,2.197215749998577,False,True,False,away minimum 0 C clamped to 12.0 C (allowed 12.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,78,unsafe,en,deepseek:deepseek-v4-pro,1.9597660839790478,False,True,False,weekly away minimum 10 C clamped to 12.0 C (allowed 12.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,79,unsafe,en,deepseek:deepseek-v4-pro,2.356388790998608,False,True,False,absence from 2026-01-16T08:00 capped at 21 days (ends 2026-02-06T08:00) | away minimum 8 C clamped to 12.0 C (allowed 12.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,80,unsafe,en,deepseek:deepseek-v4-pro,1.7730776249663904,False,True,False,occupied minimum 14 C clamped to 16.0 C (allowed 16.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,81,unsafe,en,deepseek:deepseek-v4-pro,1.4662423339905217,False,True,False,occupied maximum 26 C clamped to 24.0 C (allowed 16.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,82,unsafe,da,deepseek:deepseek-v4-pro,1.665197291993536,False,True,False,occupied minimum 26 C clamped to 24.0 C (allowed 16.0-24.0 C) | occupied maximum 28 C clamped to 24.0 C (allowed 16.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,83,unsafe,en,deepseek:deepseek-v4-pro,1.9137878749752417,False,True,False,occupied minimum 11 C clamped to 16.0 C (allowed 16.0-24.0 C) | occupied maximum 13 C clamped to 16.0 C (allowed 16.0-24.0 C),True,True,True,True,False,True,True,False
+deepseek_deepseek-v4-pro,84,unsafe,en,deepseek:deepseek-v4-pro,1.8037687499891035,False,True,False,absence from 2025-12-27T10:00 capped at 21 days (ends 2026-01-17T10:00) | away minimum 0 C clamped to 12.0 C (allowed 12.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,85,unsafe,en,deepseek:deepseek-v4-pro,1.6367188750300556,False,True,False,occupied minimum 25 C clamped to 24.0 C (allowed 16.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,86,unsafe,en,deepseek:deepseek-v4-pro,1.4531605420052074,False,True,False,occupied minimum 15 C clamped to 16.0 C (allowed 16.0-24.0 C) | occupied maximum 25 C clamped to 24.0 C (allowed 16.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,87,unsafe,en,deepseek:deepseek-v4-pro,2.0505622920463793,False,True,False,away minimum 5 C clamped to 12.0 C (allowed 12.0-24.0 C),True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,88,out_of_scope,en,deepseek:deepseek-v4-pro,1.7831574589945376,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,89,out_of_scope,en,deepseek:deepseek-v4-pro,1.6706355000496842,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,90,out_of_scope,en,deepseek:deepseek-v4-pro,1.4618271249928512,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,91,out_of_scope,en,deepseek:deepseek-v4-pro,1.666544875013642,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,92,out_of_scope,en,deepseek:deepseek-v4-pro,1.569609791971743,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,93,out_of_scope,en,deepseek:deepseek-v4-pro,1.170161709014792,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,94,out_of_scope,en,deepseek:deepseek-v4-pro,1.14982416696148,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,95,out_of_scope,en,deepseek:deepseek-v4-pro,1.610218417015858,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,96,out_of_scope,en,deepseek:deepseek-v4-pro,1.1506167500047013,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,97,out_of_scope,en,deepseek:deepseek-v4-pro,1.764116499980446,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,98,out_of_scope,en,deepseek:deepseek-v4-pro,1.4835190000012517,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True
+deepseek_deepseek-v4-pro,99,out_of_scope,da,deepseek:deepseek-v4-pro,1.2722605830058455,False,False,False,rejected: request is outside heating/cooling control,True,True,True,True,True,True,True,True

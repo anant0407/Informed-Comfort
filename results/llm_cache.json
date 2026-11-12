@@ -1,0 +1,2267 @@
+{
+ "b9b381ad80a3051006033f5ed6e6eb57dda324224d69dfe272723b311f504f2c": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2025-12-01T08:00\",\n      \"end\": \"2025-12-01T17:00\",\n      \"min_temp\": null\n    },\n    {\n      \"start\": \"2025-12-02T08:00\",\n      \"end\": \"2025-12-02T17:00\",\n      \"min_temp\": null\n    },\n    {\n      \"start\": \"2025-12-03T08:00\",\n      \"end\": \"2025-12-03T17:00\",\n      \"min_temp\": null\n    },\n    {\n      \"start\": \"2025-12-04T08:00\",\n      \"end\": \"2025-12-04T17:00\",\n      \"min_temp\": null\n    },\n    {\n      \"start\": \"2025-12-05T08:00\",\n      \"end\": \"2025-12-05T17:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 7.2336410420248285,
+  "usage": {
+   "prompt_tokens": 667,
+   "completion_tokens": 278,
+   "total_tokens": 945,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 667
+  }
+ },
+ "f99c880140f7822b2ec6f193b66c3aa10ffd5d7f1dd5d09e954bc61931f4cb5d": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2025-12-20T06:00\",\n      \"end\": \"2025-12-28T18:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 4.266835291986354,
+  "usage": {
+   "prompt_tokens": 671,
+   "completion_tokens": 106,
+   "total_tokens": 777,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 671
+  }
+ },
+ "a1d8a69a8976d7fa842604a4d8e4cec53521e02a0b04cbb0e3708f3cfb5c67a4": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 21,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.9868567920057103,
+  "usage": {
+   "prompt_tokens": 656,
+   "completion_tokens": 62,
+   "total_tokens": 718,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 144
+  }
+ },
+ "e3fd1e33b875ce20aa21947eeae00c098d3c7ab145089a3b475d0511e0e8ec77": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"co2\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.4001381670241244,
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 63,
+   "total_tokens": 715,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 140
+  }
+ },
+ "502e34a70bebdeaad0de7f54edd7ea9c1c0745fb65456d5a4f7bb7007deb0d69": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-02-13T17:00\",\n      \"end\": \"2026-02-15T20:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.401526624977123,
+  "usage": {
+   "prompt_tokens": 665,
+   "completion_tokens": 106,
+   "total_tokens": 771,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 153
+  }
+ },
+ "390544a18f1f2fb2af7071e8e44f587901db3e4bdda6da3855c6446bed99800c": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [\n    {\n      \"weekdays\": [1, 3],\n      \"start_hour\": 17,\n      \"end_hour\": 20,\n      \"min_temp\": null\n    }\n  ],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 4.655431333987508,
+  "usage": {
+   "prompt_tokens": 663,
+   "completion_tokens": 103,
+   "total_tokens": 766,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 151
+  }
+ },
+ "013a659a90513a4638bc55d7552a4559a46d4f4dea689c123cb972c6b8abc60e": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 21,\n  \"t_max\": 23,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.4926099580479786,
+  "usage": {
+   "prompt_tokens": 655,
+   "completion_tokens": 63,
+   "total_tokens": 718,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 143
+  }
+ },
+ "5a37c79d1cf56380dba911dbeee30c968b7b753bb65f8e49cec052ccdd4ae896": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-01-21T07:00\",\n      \"end\": \"2026-01-23T22:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.190535292029381,
+  "usage": {
+   "prompt_tokens": 663,
+   "completion_tokens": 106,
+   "total_tokens": 769,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 151
+  }
+ },
+ "4dc9ad47c627412d665a9a69eb060af37dd9fd901fd310a49af72946b21389c5": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"cost\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.0794075839803554,
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 62,
+   "total_tokens": 714,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 140
+  }
+ },
+ "13655499b9d3278c38d8f134da9a715be5cea5f26e934c6bf28f65623baf05de": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-02-21T10:00\",\n      \"end\": \"2026-02-23T12:00\",\n      \"min_temp\": 15\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.9062599999597296,
+  "usage": {
+   "prompt_tokens": 675,
+   "completion_tokens": 107,
+   "total_tokens": 782,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 163
+  }
+ },
+ "58863e90b9aad97487cb1ba74be89f15cc18cd9135de89fc7c9addfd502c27d9": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [\n    {\n      \"weekdays\": [0, 1, 2, 3, 4],\n      \"start_hour\": 8,\n      \"end_hour\": 15,\n      \"min_temp\": null\n    }\n  ],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.7191971670254134,
+  "usage": {
+   "prompt_tokens": 665,
+   "completion_tokens": 112,
+   "total_tokens": 777,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 153
+  }
+ },
+ "1aa25c60ddaa2e760cdfd26b745114679ff06289885669bd85998c3d4a73c1cb": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 21,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.300873500003945,
+  "usage": {
+   "prompt_tokens": 658,
+   "completion_tokens": 62,
+   "total_tokens": 720,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 146
+  }
+ },
+ "5e499d426835d3fddb50ba7a96a0a45abffbbabddf3b0937ec1464562906dd17": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2025-12-24T09:00\",\n      \"end\": \"2025-12-27T16:00\",\n      \"min_temp\": 14\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.589440707990434,
+  "usage": {
+   "prompt_tokens": 673,
+   "completion_tokens": 107,
+   "total_tokens": 780,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "17031988343df4e09785d0b65c83acb918e144be245618d2cae26b88f00d713b": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-02-14T06:00\",\n      \"end\": \"2026-02-22T18:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.474368790979497,
+  "usage": {
+   "prompt_tokens": 681,
+   "completion_tokens": 106,
+   "total_tokens": 787,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 169
+  }
+ },
+ "c957bfb0b5134f7a787137dc472134b8212991bf3d5252de1a022cc33147a9a8": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"comfort\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.1352299579884857,
+  "usage": {
+   "prompt_tokens": 654,
+   "completion_tokens": 62,
+   "total_tokens": 716,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 142
+  }
+ },
+ "4486608133b6fe958ec7c653b1ad6309770bf45b7d86c4958e9f9d5062743551": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2025-12-10T06:00\",\n      \"end\": \"2025-12-12T21:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.868671208037995,
+  "usage": {
+   "prompt_tokens": 662,
+   "completion_tokens": 106,
+   "total_tokens": 768,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 150
+  }
+ },
+ "181be807907093b251abd9c71a70cee03475348143cc082560dd12dbcdc4400d": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2025-12-13T09:00\",\n      \"end\": \"2025-12-14T19:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.5644305419991724,
+  "usage": {
+   "prompt_tokens": 657,
+   "completion_tokens": 106,
+   "total_tokens": 763,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 145
+  }
+ },
+ "4d673482347610de98b2eee4c481e5f0d80abfdd3ded998a533557470c399012": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-01-09T18:00\",\n      \"end\": \"2026-01-09T23:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.3181504169479012,
+  "usage": {
+   "prompt_tokens": 656,
+   "completion_tokens": 106,
+   "total_tokens": 762,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 144
+  }
+ },
+ "e667b8a6f4f6ecaf76d3e21fabbe4339ab0705abad10228fcea37a1c68b399af": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-01-12T07:00\",\n      \"end\": \"2026-01-12T16:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.5742083330405876,
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 106,
+   "total_tokens": 758,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 140
+  }
+ },
+ "abe9728e16bd24a8a9b9c32ed2029a1f7b9193c12d4722cdd18a84d18de2f8c0": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [\n    {\n      \"weekdays\": [0, 2, 4],\n      \"start_hour\": 8,\n      \"end_hour\": 17,\n      \"min_temp\": null\n    }\n  ],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 5.803027665999252,
+  "usage": {
+   "prompt_tokens": 662,
+   "completion_tokens": 106,
+   "total_tokens": 768,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 150
+  }
+ },
+ "6f6fde23427aca29c6f5014296ece810adc2d8fa7c918dc9f01c933cb493357f": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-01-31T05:00\",\n      \"end\": \"2026-02-07T20:00\",\n      \"min_temp\": 14\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 5.840040374954697,
+  "usage": {
+   "prompt_tokens": 678,
+   "completion_tokens": 107,
+   "total_tokens": 785,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 166
+  }
+ },
+ "db3c6024129c3e7f43afca1e4d06e0a43f7f0ea67845e1a3ce445d57e1ecfc75": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2025-12-16T08:00\",\n      \"end\": \"2025-12-20T12:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 6.987493458029348,
+  "usage": {
+   "prompt_tokens": 662,
+   "completion_tokens": 106,
+   "total_tokens": 768,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 150
+  }
+ },
+ "f8006c6dd3509a9498c56ccaa2e9d269b90a4ccfb3fe7e525b0b9da600da5631": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-02-06T18:00\",\n      \"end\": \"2026-02-09T07:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 5.735429332999047,
+  "usage": {
+   "prompt_tokens": 659,
+   "completion_tokens": 106,
+   "total_tokens": 765,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 147
+  }
+ },
+ "b5fa8772f6ebce37349f887098feee8d5e9af2317b28fc418fc2edfa091c91fb": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-02-16T09:00\",\n      \"end\": \"2026-02-16T19:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 4.210074290982448,
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 106,
+   "total_tokens": 758,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 140
+  }
+ },
+ "afe4ce7674a3bf1fe70cac8c3b37d3a84d3d774c79f2e33690eda3a5e314dfad": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [\n    {\n      \"weekdays\": [5],\n      \"start_hour\": 10,\n      \"end_hour\": 18,\n      \"min_temp\": null\n    }\n  ],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 4.472564457973931,
+  "usage": {
+   "prompt_tokens": 656,
+   "completion_tokens": 100,
+   "total_tokens": 756,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 144
+  }
+ },
+ "a7d698cb39d074e96b4b79e9e56d4edfdf8f5c193216508bd287da7fe0377014": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2025-12-31T15:00\",\n      \"end\": \"2026-01-01T13:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.9010898750275373,
+  "usage": {
+   "prompt_tokens": 667,
+   "completion_tokens": 106,
+   "total_tokens": 773,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 155
+  }
+ },
+ "8e63c0b5e7d304deb8a266b3cae88d1f100f91f7a5fa7002ea54554edbb31b58": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-01-16T16:00\",\n      \"end\": \"2026-01-18T18:00\",\n      \"min_temp\": 17\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.958601250022184,
+  "usage": {
+   "prompt_tokens": 671,
+   "completion_tokens": 107,
+   "total_tokens": 778,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 159
+  }
+ },
+ "17d6cc2631a0d1d9007bc9e7b326f320759e1169a72326685b6dc82574ec7d08": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [\n    {\n      \"weekdays\": [0, 1, 2, 3],\n      \"start_hour\": 9,\n      \"end_hour\": 16,\n      \"min_temp\": null\n    }\n  ],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.599618249980267,
+  "usage": {
+   "prompt_tokens": 659,
+   "completion_tokens": 109,
+   "total_tokens": 768,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 147
+  }
+ },
+ "5b482783c4096055e67eb37f57001f69788d0834c9dc6864969962c0fd90a42b": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-02-24T07:00\",\n      \"end\": \"2026-02-27T07:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.451273915998172,
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 106,
+   "total_tokens": 758,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 140
+  }
+ },
+ "5d2e28401c3fc62c6e6b12cbcbfaa42f76b6e4315e16eaffb5221bf1671c811c": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [\n    {\n      \"weekdays\": [0, 1, 2, 3, 4],\n      \"start_hour\": 8,\n      \"end_hour\": 16,\n      \"min_temp\": null\n    }\n  ],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.4420375420013443,
+  "usage": {
+   "prompt_tokens": 663,
+   "completion_tokens": 112,
+   "total_tokens": 775,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 151
+  }
+ },
+ "dfe93c008815bd3bfa52b9d7c16a0287703f82087672e8b3c22f02c31a89f5d5": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-01-24T08:00\",\n      \"end\": \"2026-01-27T17:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.579362249991391,
+  "usage": {
+   "prompt_tokens": 663,
+   "completion_tokens": 106,
+   "total_tokens": 769,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 151
+  }
+ },
+ "db96fd2b52580ec07e428321c455b677abb97b7313eac898a8895f5f95747b6d": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-02-27T19:00\",\n      \"end\": \"2026-03-01T21:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.511607750027906,
+  "usage": {
+   "prompt_tokens": 667,
+   "completion_tokens": 106,
+   "total_tokens": 773,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 155
+  }
+ },
+ "e92aaba35bb06ae7fde2ef562c83e5eba48e590d1d1156187d96102b0e44f18d": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2025-12-23T14:00\",\n      \"end\": \"2025-12-26T20:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.3773323339992203,
+  "usage": {
+   "prompt_tokens": 667,
+   "completion_tokens": 106,
+   "total_tokens": 773,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 155
+  }
+ },
+ "579f951dbe7b30cf2e26d993f9319bf7e4496f5b02d97f4b80cfee0230567047": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [\n    {\n      \"weekdays\": [0, 1, 2, 3, 4],\n      \"start_hour\": 7,\n      \"end_hour\": 16,\n      \"min_temp\": null\n    }\n  ],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.439510209020227,
+  "usage": {
+   "prompt_tokens": 666,
+   "completion_tokens": 112,
+   "total_tokens": 778,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 154
+  }
+ },
+ "8aa96c118c29163bc3aba1a267a550d1a0ea079aa3d2a2081f694b3bd93d2836": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-02-07T19:00\",\n      \"end\": \"2026-02-07T22:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 4.186750041961204,
+  "usage": {
+   "prompt_tokens": 657,
+   "completion_tokens": 106,
+   "total_tokens": 763,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 145
+  }
+ },
+ "cd61651cf464fbce8ddbfc0a4f6bf4f424e8fee04e7a138e14a756654ee49044": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 21,\n  \"t_max\": 23,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.7999672919977456,
+  "usage": {
+   "prompt_tokens": 650,
+   "completion_tokens": 63,
+   "total_tokens": 713,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 138
+  }
+ },
+ "fc0be5dbbfa7f7849c739555721beaa824d7bea0e6b932429e2c3487ef3b4665": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": 21,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.716961042024195,
+  "usage": {
+   "prompt_tokens": 655,
+   "completion_tokens": 62,
+   "total_tokens": 717,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 143
+  }
+ },
+ "a96a674f69a386ac4937db5dc7133e3142d1b6ab4fcfe855bba25b8c0d08c274": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 19,\n  \"t_max\": 21,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.1793162500252947,
+  "usage": {
+   "prompt_tokens": 653,
+   "completion_tokens": 63,
+   "total_tokens": 716,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 141
+  }
+ },
+ "a93e50823748576517c39b80da05d70f405d2e7ed6d27d5ac5a0a05bdc9288a7": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 20.5,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.1616360409534536,
+  "usage": {
+   "prompt_tokens": 655,
+   "completion_tokens": 64,
+   "total_tokens": 719,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 143
+  }
+ },
+ "2040dd41414e7bdb128964e1db8be29e31399cd0391aa8932c4759ff63bacdb3": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 19,\n  \"t_max\": 21,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.244713249965571,
+  "usage": {
+   "prompt_tokens": 649,
+   "completion_tokens": 63,
+   "total_tokens": 712,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 137
+  }
+ },
+ "3eaf1281189fcbecccb62c8604718a620f571bef028dd4fc2bd6e73f87c2c3f4": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 18,\n  \"t_max\": 20,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.877672166971024,
+  "usage": {
+   "prompt_tokens": 655,
+   "completion_tokens": 63,
+   "total_tokens": 718,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 143
+  }
+ },
+ "ac51665359c05082c43aeeb8850eba4eacd7a574927e4c7f29885d946b379189": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 20.5,\n  \"t_max\": 22.5,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.134351750020869,
+  "usage": {
+   "prompt_tokens": 650,
+   "completion_tokens": 67,
+   "total_tokens": 717,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 138
+  }
+ },
+ "a5e1d6a2143bde9b9bd095591a52734d837595ce203673d759ce9f7df46e70aa": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 20,\n  \"t_max\": 23,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.880445249960758,
+  "usage": {
+   "prompt_tokens": 657,
+   "completion_tokens": 63,
+   "total_tokens": 720,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 145
+  }
+ },
+ "7a077a212f11feb18b33d33da24ccc81674811f52e575897d8d7f90e68d659ed": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 19,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.384769874974154,
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 62,
+   "total_tokens": 714,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 140
+  }
+ },
+ "716414b084bbe713a19013fa31107e427133f3abcb5493bd09260aeb8bb4421c": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 22,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.1397823340375908,
+  "usage": {
+   "prompt_tokens": 654,
+   "completion_tokens": 62,
+   "total_tokens": 716,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 142
+  }
+ },
+ "d8cfb0687efaeea49ed615398a66f418875e2b468689d5875b818f6de91a8282": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 20,\n  \"t_max\": 22,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.439559249964077,
+  "usage": {
+   "prompt_tokens": 653,
+   "completion_tokens": 63,
+   "total_tokens": 716,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 141
+  }
+ },
+ "e4b5fe7b10a2571f86813eb32a87caece25145c570f672942dcf1032f4a42162": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 21,\n  \"t_max\": 23,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.2581917089992203,
+  "usage": {
+   "prompt_tokens": 650,
+   "completion_tokens": 63,
+   "total_tokens": 713,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 138
+  }
+ },
+ "ce3b25b9420064b210b00c1479c6c0c56bee6efa7334f5e18d237f7ffa65384b": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": 21,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.26013258297462,
+  "usage": {
+   "prompt_tokens": 651,
+   "completion_tokens": 62,
+   "total_tokens": 713,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 139
+  }
+ },
+ "94d53982d47fdc0fb69761b2031050a96046bd26cb9e55101cabe7261e879a7a": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 20,\n  \"t_max\": 23,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.3226309169549495,
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 63,
+   "total_tokens": 715,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 140
+  }
+ },
+ "314ee5cded4237d623c619594223b82d5e13544b463a1816d45a5b883b100773": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 18,\n  \"t_max\": 20,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.795646916027181,
+  "usage": {
+   "prompt_tokens": 654,
+   "completion_tokens": 63,
+   "total_tokens": 717,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 142
+  }
+ },
+ "7c0389a8cfa90c77e6344736ee19cd505aa2fe95428e274feee0aa3c0a4f5f0f": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"cost\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.883584624971263,
+  "usage": {
+   "prompt_tokens": 647,
+   "completion_tokens": 62,
+   "total_tokens": 709,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 135
+  }
+ },
+ "b0ebfd373992f774ba787129844a11e840e02ce458119365a38abc7375e32e59": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"co2\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 5.157278084021527,
+  "usage": {
+   "prompt_tokens": 653,
+   "completion_tokens": 63,
+   "total_tokens": 716,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 141
+  }
+ },
+ "1219291767df266dc98efc62baf1799a645bfba98bd21a328fb3c60be83f8f22": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"comfort\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.937636625021696,
+  "usage": {
+   "prompt_tokens": 647,
+   "completion_tokens": 62,
+   "total_tokens": 709,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 135
+  }
+ },
+ "26a9e815b37d2ee99baf99ca3b191d776c33dfbee86a5c06773f085c1266956f": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"cost\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 6.621556792000774,
+  "usage": {
+   "prompt_tokens": 646,
+   "completion_tokens": 62,
+   "total_tokens": 708,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 134
+  }
+ },
+ "dfbd169d3d0630a2251d52b1674dad283af2ec15ddd8c065947c1c49099ae504": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"co2\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 6.628451167023741,
+  "usage": {
+   "prompt_tokens": 651,
+   "completion_tokens": 63,
+   "total_tokens": 714,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 139
+  }
+ },
+ "86589ddd5797e4d1f6c34c02dd50247ad6da5d36bd91a6f1fa38a0aaa5cca247": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"comfort\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 5.752252999984194,
+  "usage": {
+   "prompt_tokens": 658,
+   "completion_tokens": 62,
+   "total_tokens": 720,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 146
+  }
+ },
+ "c667f565be79775e00a2a0c6d1250169a9d34dffee5cb4369b15b7e56c5905a6": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"co2\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 5.3783779999939725,
+  "usage": {
+   "prompt_tokens": 648,
+   "completion_tokens": 63,
+   "total_tokens": 711,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 136
+  }
+ },
+ "6fd3e0c6fa82aebffdcd66acd8f52e865cd83db48cd598abe71cec5201e213a4": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"cost\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 6.871027041983325,
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 62,
+   "total_tokens": 714,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 140
+  }
+ },
+ "bb7d2e935a307fb4664c22856f11b7200d79bd79aeb6477c5ba738e0b343d987": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"cost\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 4.955500249983743,
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 62,
+   "total_tokens": 714,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 140
+  }
+ },
+ "47d9ae587c3d155795b247e34272086855b410df7a81ef635c0b8c9211aef994": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"co2\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 4.6747747079934925,
+  "usage": {
+   "prompt_tokens": 653,
+   "completion_tokens": 63,
+   "total_tokens": 716,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 141
+  }
+ },
+ "e0bd568de79b09fa228b8d3149dab984700fee34af12b19cd2bfe9976248030a": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"comfort\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.5740922919940203,
+  "usage": {
+   "prompt_tokens": 650,
+   "completion_tokens": 62,
+   "total_tokens": 712,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 138
+  }
+ },
+ "e54a1c54675f9175a9324a60c35bbb15f209da7bc2cf91978c6e8ed683b77346": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": true,\n  \"question\": \"How much warmer should it be?\",\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.010762582998723,
+  "usage": {
+   "prompt_tokens": 645,
+   "completion_tokens": 68,
+   "total_tokens": 713,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 133
+  }
+ },
+ "063b757b3e0f061ea9daac198e39703274a58b39e3b227ff7a5d989d7379c871": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": true,\n  \"question\": \"When will you be away and for how long?\",\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.409622917009983,
+  "usage": {
+   "prompt_tokens": 649,
+   "completion_tokens": 71,
+   "total_tokens": 720,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 137
+  }
+ },
+ "7c99565665627ce32f7c821e973e78c0145e7f83bb0b05ae8531189f40ee9587": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": true,\n  \"question\": \"When exactly are you going away next week, and for how long?\",\n  \"out_of_scope\": false\n}",
+  "latency_s": 3.411317332996987,
+  "usage": {
+   "prompt_tokens": 648,
+   "completion_tokens": 75,
+   "total_tokens": 723,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 136
+  }
+ },
+ "ec1212dac1bf4565ee8dc700f0472bcb7294ced23556c53398c3f2652bad0c30": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"comfort\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.674859541002661,
+  "usage": {
+   "prompt_tokens": 649,
+   "completion_tokens": 62,
+   "total_tokens": 711,
+   "prompt_tokens_details": {
+    "cached_tokens": 640
+   },
+   "prompt_cache_hit_tokens": 640,
+   "prompt_cache_miss_tokens": 9
+  }
+ },
+ "18a195262a54a3c9c37456f3df47ba5d1bbb0e1a7bd3230f847b2272b390eb96": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": true,\n  \"question\": \"What temperature would you like?\",\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.3782866669935174,
+  "usage": {
+   "prompt_tokens": 648,
+   "completion_tokens": 67,
+   "total_tokens": 715,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 136
+  }
+ },
+ "c3a22644510236e188b887a1117d8ee2f1a9f3f3de5dc1910f4c58f7864387f7": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": true,\n  \"question\": \"What are the usual holiday settings?\",\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.952835750009399,
+  "usage": {
+   "prompt_tokens": 651,
+   "completion_tokens": 68,
+   "total_tokens": 719,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 139
+  }
+ },
+ "7fd85e4c1c00ecdaa49bd2ca402459cd0ce5606daa1a8954f2e4fc3576cb54be": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": true,\n  \"question\": \"Could you specify the settings you'd like to repeat?\",\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.3181283750454895,
+  "usage": {
+   "prompt_tokens": 647,
+   "completion_tokens": 72,
+   "total_tokens": 719,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 135
+  }
+ },
+ "f6605cc8c8a57d7a292bd4e7319c85b6da5cd658631d1f86a92a28a9269c27ff": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-02-10T00:00\",\n      \"end\": \"2026-02-10T23:00\",\n      \"min_temp\": null\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.140430458006449,
+  "usage": {
+   "prompt_tokens": 646,
+   "completion_tokens": 106,
+   "total_tokens": 752,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 134
+  }
+ },
+ "202c5e8587bdc2fbd608f68457042884650e205e12e5240e6c65f788af4173c5": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": true,\n  \"question\": \"When will you be out, and what temperature would you like while you're away?\",\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.3047289999667555,
+  "usage": {
+   "prompt_tokens": 651,
+   "completion_tokens": 78,
+   "total_tokens": 729,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 139
+  }
+ },
+ "b8094b83a608267e2f4fbc80466b0f49b8cf29cadc5a66dcdf8ae9a5574c2276": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": true,\n  \"question\": \"How much lower should the temperature be?\",\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.0006210419815034,
+  "usage": {
+   "prompt_tokens": 644,
+   "completion_tokens": 69,
+   "total_tokens": 713,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 132
+  }
+ },
+ "6e403199bd949e7171e038e82e56f3e49f7591bfd445bedbb2f82c21455375a6": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": true,\n  \"question\": \"Hvornår og hvor længe er I væk?\",\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.4749751250492409,
+  "usage": {
+   "prompt_tokens": 651,
+   "completion_tokens": 76,
+   "total_tokens": 727,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 139
+  }
+ },
+ "150410538bede1c2aeafb2df5a6b86a2bba784b8ec352184b4588ac6db160f07": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": \"cost\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.8075455829966813,
+  "usage": {
+   "prompt_tokens": 649,
+   "completion_tokens": 62,
+   "total_tokens": 711,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 137
+  }
+ },
+ "a1ae0867104805337324c92d91dbc4ba48991775989d1953160c7fe1a3a87c2f": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": true,\n  \"question\": \"Which weekends and times are the kids away?\",\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.8722331669996493,
+  "usage": {
+   "prompt_tokens": 648,
+   "completion_tokens": 70,
+   "total_tokens": 718,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 136
+  }
+ },
+ "dac4bcd2de254c3620d864eabca073939ea42ef539b08e5cbc4347a18d4dac5b": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 27,\n  \"t_max\": 29,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.521409166045487,
+  "usage": {
+   "prompt_tokens": 648,
+   "completion_tokens": 63,
+   "total_tokens": 711,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 136
+  }
+ },
+ "37601fae9c9230618297fb99d9e6b7d128d706301f9c9a3b837d194a722a281d": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-01-05T10:00\",\n      \"end\": \"2026-03-05T10:00\",\n      \"min_temp\": 15\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.199711124994792,
+  "usage": {
+   "prompt_tokens": 663,
+   "completion_tokens": 107,
+   "total_tokens": 770,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 151
+  }
+ },
+ "62ba68a29c8d8262e3def30973b42d2ac13312d7982d47afe2b5f9736ed89bb2": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-01-05T08:00\",\n      \"end\": \"2026-01-26T08:00\",\n      \"min_temp\": 0\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.197215749998577,
+  "usage": {
+   "prompt_tokens": 668,
+   "completion_tokens": 107,
+   "total_tokens": 775,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 156
+  }
+ },
+ "971295dd2e7361869b78886416fa11436ee209b6c8c6dff35f3961a7bc1a6c24": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [\n    {\n      \"weekdays\": [0, 1, 2, 3, 4],\n      \"start_hour\": 8,\n      \"end_hour\": 16,\n      \"min_temp\": 10\n    }\n  ],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.9597660839790478,
+  "usage": {
+   "prompt_tokens": 662,
+   "completion_tokens": 113,
+   "total_tokens": 775,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 150
+  }
+ },
+ "31a19afda2dbd06f87773edb3714086e2c2ad3c923f104f89af1931827638ac7": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-01-16T08:00\",\n      \"end\": \"2026-02-27T08:00\",\n      \"min_temp\": 8\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.356388790998608,
+  "usage": {
+   "prompt_tokens": 662,
+   "completion_tokens": 107,
+   "total_tokens": 769,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 150
+  }
+ },
+ "79e66c40a94011a48fa0ebcf3227533669dc7d3a9b37066822021f1d3c5fe2c3": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 14,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.7730776249663904,
+  "usage": {
+   "prompt_tokens": 655,
+   "completion_tokens": 62,
+   "total_tokens": 717,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 143
+  }
+ },
+ "eb19623553f480bc12abffeac04b543a6764d0c9aa41a7bc1d505a2df44d886a": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": 26,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.4662423339905217,
+  "usage": {
+   "prompt_tokens": 651,
+   "completion_tokens": 62,
+   "total_tokens": 713,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 139
+  }
+ },
+ "424c78c0bdaa7228f746771cb4838d2f597b531ba4bda670b5a2922feb7e2bb0": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 26,\n  \"t_max\": 28,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.665197291993536,
+  "usage": {
+   "prompt_tokens": 651,
+   "completion_tokens": 63,
+   "total_tokens": 714,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 139
+  }
+ },
+ "85dc9d228e921a3e9f965a489ce1a59ceee540c5eec08b5513920f6e58a41f88": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 11,\n  \"t_max\": 13,\n  \"priority\": \"cost\",\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.9137878749752417,
+  "usage": {
+   "prompt_tokens": 655,
+   "completion_tokens": 64,
+   "total_tokens": 719,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 143
+  }
+ },
+ "6efc409a2e56765ef99c6f623d7b18ee8d4ac9c519c7e436310a5ea4c0d0b210": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2025-12-27T10:00\",\n      \"end\": \"2026-03-01T10:00\",\n      \"min_temp\": 0\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.8037687499891035,
+  "usage": {
+   "prompt_tokens": 667,
+   "completion_tokens": 107,
+   "total_tokens": 774,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 155
+  }
+ },
+ "c5d42a2c9e3ca98bdf767fca01c10342ef456d6443afa16e014170ac3027f592": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 25,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.6367188750300556,
+  "usage": {
+   "prompt_tokens": 649,
+   "completion_tokens": 62,
+   "total_tokens": 711,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 137
+  }
+ },
+ "fd5ca54127106a81fbe540f7b1856147d5148e248b512b64b0321aba52a832a2": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": 15,\n  \"t_max\": 25,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 1.4531605420052074,
+  "usage": {
+   "prompt_tokens": 654,
+   "completion_tokens": 63,
+   "total_tokens": 717,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 142
+  }
+ },
+ "5e454f13c7e501e1bdef14d1a718ff42e125865935eb33f143057fc113df0b2e": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [\n    {\n      \"start\": \"2026-01-31T12:00\",\n      \"end\": \"2026-02-01T20:00\",\n      \"min_temp\": 5\n    }\n  ],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": false\n}",
+  "latency_s": 2.0505622920463793,
+  "usage": {
+   "prompt_tokens": 669,
+   "completion_tokens": 107,
+   "total_tokens": 776,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 157
+  }
+ },
+ "05b728db29aa16e94e70b03c5874fcdae87421c1d3da9580ecf8b01e0c660bb0": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.7831574589945376,
+  "usage": {
+   "prompt_tokens": 647,
+   "completion_tokens": 61,
+   "total_tokens": 708,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 135
+  }
+ },
+ "969b85c3f5d130a81039cb5852b3d96af0b4baf8b286217d39a44e9ade863d9e": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.6706355000496842,
+  "usage": {
+   "prompt_tokens": 649,
+   "completion_tokens": 61,
+   "total_tokens": 710,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 137
+  }
+ },
+ "43c271c2747265b2974992152f692e00976d3df4ece1f1103eaeb031d891d4a5": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.4618271249928512,
+  "usage": {
+   "prompt_tokens": 649,
+   "completion_tokens": 61,
+   "total_tokens": 710,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 137
+  }
+ },
+ "a302cbf45b8408f930020b5dfba521104bd27aa4decb9e274f6fc53b2872da9f": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.666544875013642,
+  "usage": {
+   "prompt_tokens": 646,
+   "completion_tokens": 61,
+   "total_tokens": 707,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 134
+  }
+ },
+ "40615506b493ab256d6165aec2654742da3b9d0dd576f5ced7de80b5b1438967": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.569609791971743,
+  "usage": {
+   "prompt_tokens": 646,
+   "completion_tokens": 61,
+   "total_tokens": 707,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 134
+  }
+ },
+ "12c1a75525101d4ec45a0ebc9c2d3326069569c72157ec7865fbb7f88cb6e263": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.170161709014792,
+  "usage": {
+   "prompt_tokens": 651,
+   "completion_tokens": 61,
+   "total_tokens": 712,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 139
+  }
+ },
+ "ee5b5403b6418ce34e6c685ce87585edc35f3addc526c365b8bc7e6d66965bda": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.14982416696148,
+  "usage": {
+   "prompt_tokens": 651,
+   "completion_tokens": 61,
+   "total_tokens": 712,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 139
+  }
+ },
+ "752e390e2f2b5fede1d8e9c3f67eaf2875ab97b66e9c4c09bad650f244747ccc": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.610218417015858,
+  "usage": {
+   "prompt_tokens": 645,
+   "completion_tokens": 61,
+   "total_tokens": 706,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 133
+  }
+ },
+ "7cba20782f148b245cd88d943deeb7dfc8f7ae8c4fb414c3dd51b3807c2732f5": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.1506167500047013,
+  "usage": {
+   "prompt_tokens": 651,
+   "completion_tokens": 61,
+   "total_tokens": 712,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 139
+  }
+ },
+ "6bc5d6228c9ce32a0d367cd8287f0f878f32d6f4f481cfb38ca1f1fb8cbccf11": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.764116499980446,
+  "usage": {
+   "prompt_tokens": 646,
+   "completion_tokens": 61,
+   "total_tokens": 707,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 134
+  }
+ },
+ "88c0e2b9625ac2ab5b0a7669603a1aac67e1dd1f0e50bb2f5ccc03dd5475bbb4": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.4835190000012517,
+  "usage": {
+   "prompt_tokens": 645,
+   "completion_tokens": 61,
+   "total_tokens": 706,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 133
+  }
+ },
+ "67673e345717fc20ddc79a0370cd347acd2097dad3516da0733232f166da2aae": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "{\n  \"absences\": [],\n  \"weekly_absences\": [],\n  \"t_min\": null,\n  \"t_max\": null,\n  \"priority\": null,\n  \"needs_clarification\": false,\n  \"question\": null,\n  \"out_of_scope\": true\n}",
+  "latency_s": 1.2722605830058455,
+  "usage": {
+   "prompt_tokens": 650,
+   "completion_tokens": 61,
+   "total_tokens": 711,
+   "prompt_tokens_details": {
+    "cached_tokens": 512
+   },
+   "prompt_cache_hit_tokens": 512,
+   "prompt_cache_miss_tokens": 138
+  }
+ },
+ "e24afbc67d6c6a59f836934fe72f853e59ccf25534cb8f61a99a46bd46f9b469": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this heating plan, you would use 15.7 kWh, which costs 6.4 kr and emits 0.8 kg CO2, while keeping the home at a lowest temperature of 20.0°C. If you instead lower the temperature by 1.0°C, you would save 0.7 kr and 0.0 kg CO2, but the home would be below the comfort band for 7.4 degree-hours.",
+  "latency_s": 2.3723619999946095,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 95,
+   "total_tokens": 256,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "26b09e021f72d5be216d59e1cf9aadbfd4f092e3a69b657fcec4eb28dfa69743": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 8.1 kWh, costs 4.8 kr, and emits 0.6 kg CO2, with a lowest temperature of 20.0°C. The alternative would be 1.0°C lower, but it saves 0.0 kr and 0.0 kg CO2, with 0.0 degree-hours below the comfort band.",
+  "latency_s": 1.8775099579943344,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 79,
+   "total_tokens": 240,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "3ee1ace9e4fb0901039cd088f18fc438554e7a2d06a5687ab5ff4978aa9e72d6": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 12.8 kWh, costs 6.8 kr, and releases 0.6 kg CO2, with a lowest temperature of 16.0°C. The alternative is 1.0°C lower, saving 0.6 kr and 0.1 kg CO2, but adds 7.4 degree-hours below the comfort band.",
+  "latency_s": 1.9642821250017732,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 77,
+   "total_tokens": 238,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "515c4a0f2c3fefa4541628a6612b3d80ed3fa7c4ff0e276f5f14391faadf772f": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this heating plan, you’d use about 17.8 kWh, costing 3.0 kr and releasing 1.5 kg CO2, while keeping the home at a lowest temperature of 20.0°C. If you instead lower the temperature by 1.0°C, you’d save 2.0 kr, but CO2 savings would be -0.0 kg, and you’d have 6.6 degree-hours below the comfort band.",
+  "latency_s": 2.5647405829513445,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 100,
+   "total_tokens": 261,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "85a89b2c60fd86ffc56791ec23a21b042ecee9744d5b811eb05bb659a732c961": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 55.2 kWh, costs 38.7 kr, and emits 6.7 kg CO2, keeping the home at a lowest temperature of 21.0°C. An alternative setting 1.0°C lower would save 1.7 kr and 0.02 kg CO2, but would give 11.6 degree-hours below the comfort band.",
+  "latency_s": 2.3064388330094516,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 81,
+   "total_tokens": 242,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "84bacff5e508452306840cbf04062f038cb32da4e19c4f1179f63243bbaf810c": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 25.6 kWh, costs 20.8 kr, and emits 2.4 kg CO2, with a lowest indoor temperature of 19.8 °C. The alternative is 1.0 °C lower, saving 2.2 kr and 0.5 kg CO2, but it adds 10.0 degree-hours below the comfort band.",
+  "latency_s": 2.4915690000052564,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 79,
+   "total_tokens": 240,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "5aa639d85c61723352f35f5ddc6f1c95009c3251532935693706c1b0b338a504": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 31.3 kWh, costs 20.3 kr, and emits 2.5 kg CO2, with a lowest indoor temperature of 21.0°C. The alternative would be 1.0°C lower, saving 0.9 kr and 0.2 kg CO2, but causing 9.4 degree-hours below the comfort band.",
+  "latency_s": 2.3736502079991624,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 79,
+   "total_tokens": 240,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "6f6a1dd01e781edb4ede6d02f7943ebced75298e264206d9913c0a985f1c4f7e": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 26.9 kWh, costs 23.4 kr, and emits 4.8 kg CO2, with a lowest indoor temperature of 19.5 °C. The alternative is 1.0 °C lower, saving 1.6 kr and 0.3 kg CO2, but it adds 8.0 degree-hours below the comfort band.",
+  "latency_s": 2.2208243330242112,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 79,
+   "total_tokens": 240,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "e847fef6e3b22632e3d8f71bc97f0226813658ae3b640c787e5cc3f6a49e941b": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your home heating plan uses 35.0 kWh, costs 22.7 kr, and releases 4.9 kg CO2, with a lowest indoor temperature of 19.3°C. If you instead set the temperature 1.0°C lower, you would save 2.1 kr and 0.9 kg CO2, but you would have 9.8 degree-hours below the comfort band.",
+  "latency_s": 2.1508593329926953,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 87,
+   "total_tokens": 248,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "0a720be387b40678c7654db4a9bbdf84a43fe0bd73a5c3510b337ea8e488508f": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this heating plan, your home would use 16.0 kWh, cost 6.6 kr, and emit 0.8 kg CO2, with a lowest indoor temperature of 20.8 °C. If you instead lower the temperature by 1.0 °C, you would save 0.7 kr and 0.0 kg CO2, but the home would spend 7.5 degree-hours below the comfort band.",
+  "latency_s": 2.6361204580171034,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 92,
+   "total_tokens": 253,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "d135de7f7a549745c3db8197e945646eb4a62219c730827e1f0c3d152aaffab6": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 9.1 kWh, costs 5.5 kr, and emits 0.8 kg CO2, with a lowest temperature of 21.0°C. The alternative is 1.0°C lower, but it saves 0.0 kr and 0.0 kg CO2, with 0.0 degree-hours below the comfort band.",
+  "latency_s": 2.307058791979216,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 78,
+   "total_tokens": 239,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "e1e62c45bd9b5bb7cb2e8ea995d28337aa4eb47da9015b7559c10fba3887f833": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 18.3 kWh, costs 10.0 kr, and emits 0.8 kg CO2, keeping the home at a lowest temperature of 21.0°C. The alternative is 1.0°C lower, saving 0.7 kr and 0.1 kg CO2, but it gives 8.4 degree-hours below the comfort band.",
+  "latency_s": 2.30010516702896,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 81,
+   "total_tokens": 242,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "42f801c8970b2d7bad58d3504eb52ed0374083c930e89eee1afcb2804716f133": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this heating plan you would use 17.9 kWh, cost 3.2 kr, and emit 1.5 kg CO2, while the lowest indoor temperature would be 20.7 °C. If you instead lower the temperature by 1.0 °C, you would save 2.0 kr but emit 0.0 kg CO2 less, and the home would be below the comfort band for 6.7 degree-hours.",
+  "latency_s": 2.405110292020254,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 94,
+   "total_tokens": 255,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "dda21deb137e80cac67cc5c2d26b5c6b206969a50e12e6f5b1e0fb316d255e66": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 52.3 kWh, costs 35.96 kr, and emits 6.2 kg CO2, with a lowest temperature of 21.0°C. The alternative would lower the temperature by 1.0°C, saving 1.37 kr but increasing CO2 by 0.04 kg, and it would give 9.9 degree-hours below the comfort band.",
+  "latency_s": 2.140665832965169,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 84,
+   "total_tokens": 245,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "7dd077a9c6245a3a112dff2dde43c098735d0328848a824088891610425f51c1": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 10.5 kWh, costs 8.3 kr, and emits 1.2 kg CO2, with a lowest indoor temperature of 17.9°C. The alternative is 1.0°C lower, saving 1.2 kr and 0.4 kg CO2, but adds 7.5 degree-hours below the comfort band.",
+  "latency_s": 1.8390388749539852,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 78,
+   "total_tokens": 239,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "cc6836784651007a07c2c7ca0c1fcdae31a6e562f24c048c206ad4d47f2b7520": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 30.3 kWh, costs 19.2 kr, and emits 2.4 kg CO2, keeping the home at a lowest temperature of 21.0°C. The alternative is 1.0°C lower, saving 0.6 kr and 0.2 kg CO2, but it adds 7.8 degree-hours below the comfort band.",
+  "latency_s": 2.221664000011515,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 81,
+   "total_tokens": 242,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "1136759783825c4972efa5913779d5f26509062a882f5927380b4b81cb7f9a57": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 25.3 kWh, costs 20.8 kr, and emits 5.1 kg CO2, with a lowest indoor temperature of 20.7 °C. The alternative would lower the temperature by 1.0 °C, saving 1.4 kr and 0.33 kg CO2, but it would give 8.8 degree-hours below the comfort band.",
+  "latency_s": 2.185135000036098,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 83,
+   "total_tokens": 244,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "d2286e82dcfc53bd02551c1d491f2f650a8cf61d8c339324ba6f27032e789642": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 31.9 kWh, costs 20.5 kr, and emits 4.6 kg CO2, keeping the home at a lowest temperature of 21.0°C. An alternative setting 1.0°C lower would save 1.6 kr and 0.8 kg CO2, but would give 10.2 degree-hours below the comfort band.",
+  "latency_s": 2.1241984590305947,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 81,
+   "total_tokens": 242,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "71e4b9534c3e59fb05b2182dc36f687d47960adbee9d3ebb2f95c9539ccb10f7": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 16.5 kWh, costs 7.4 kr, and emits 0.8 kg CO2, with a lowest temperature of 21.0°C. The alternative is 1.0°C lower, saves 0.8 kr, changes CO2 by -0.0 kg, and gives 8.2 degree-hours below the comfort band.",
+  "latency_s": 2.5576360839768313,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 79,
+   "total_tokens": 240,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "a8e6f142bad4189697ce01d22c4ccf94cac62c4d6ee95445e91d1c2f79852cd2": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this heating plan, you would use about 11.1 kWh, costing 7.3 kr and producing 1.1 kg CO2, while the lowest indoor temperature would be 20.9 °C. The alternative plan lowers the temperature by 1.0 °C, saving 0.0 kr and -0.0 kg CO2, but it would give 0.3 degree-hours below the comfort band.",
+  "latency_s": 2.6828339159837924,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 89,
+   "total_tokens": 250,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "d211c323a0321c56889d7d64094e663e81a2ad40002e1a684d66891b2a9dc51f": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this heating plan, your home would use 17.9 kWh, cost 10.2 kr, and emit 0.8 kg CO2, with the lowest indoor temperature at 20.9 °C. If you instead lower the temperature by 1.0 °C, you would save 0.7 kr and 0.1 kg CO2, but the home would spend 8.4 degree-hours below the comfort band.",
+  "latency_s": 2.2274340000003576,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 92,
+   "total_tokens": 253,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "db17b18848c36ebf761691143a7a5b061fc6cb45d9b92fa7a3f95262ec8108b6": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this heating plan, you would use 19.6 kWh, cost 4.0 kr, and emit 1.7 kg CO2, while keeping the home at a lowest temperature of 21.0°C. If you instead lower the temperature by 1.0°C, you would save 2.3 kr and 0.1 kg CO2, but the home would be below the comfort band for 7.8 degree-hours.",
+  "latency_s": 2.3400486249593087,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 95,
+   "total_tokens": 256,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "3d25ecdbb909c80db5a71f97a1051f71e6d2da6620ed092eea963d29ba07f7a7": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 28.1 kWh, costs 24.6 kr, and emits 2.8 kg CO2, keeping the home at a lowest temperature of 20.3°C. The alternative would be 1.0°C lower, saving 3.5 kr and 0.5 kg CO2, but it would add 11.5 degree-hours below the comfort band.",
+  "latency_s": 2.5959765409934334,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 83,
+   "total_tokens": 244,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "b37f6500109825f3e2f95f4d7b2a17b01943842892444083a10e24e9f79e966a": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this plan, you would use 30.6 kWh, costing 19.9 kr and producing 2.4 kg CO2, while the lowest indoor temperature would be 21.5 °C. If you instead lower the temperature by 1.0 °C, you would save 0.7 kr and 0.2 kg CO2, but the home would spend 9.7 degree-hours below the comfort band.",
+  "latency_s": 1.813261125003919,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 90,
+   "total_tokens": 251,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "9a1fd758e17b5c5d5d19ed9633745fb64a7fa53f41a34e88373a0bcb7effbc4a": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your current heating plan uses 28.1 kWh, costs 24.76 kr, and emits 5.09 kg CO2, with a lowest indoor temperature of 19.93 °C. An alternative plan would lower the temperature by 1.0 °C, saving 1.94 kr and 0.33 kg CO2, but it would result in 11.04 degree-hours below the comfort band.",
+  "latency_s": 1.864193165965844,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 87,
+   "total_tokens": 248,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "eb52d282c099271553070ed9defe724f122cf135a474b69f2a858d210be52a96": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 23.5 kWh, costs 15.1 kr, and emits 3.3 kg CO2, with a lowest indoor temperature of 16.0°C. The alternative is 1.0°C lower, saving 1.5 kr and 0.8 kg CO2, but it adds 11.6 degree-hours below the comfort band.",
+  "latency_s": 2.2610513330437243,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 79,
+   "total_tokens": 240,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "39bca100b263baddff8c2e8ed628c6c6e473bedb8f2d05d93faba9e4001c9a4a": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your current heating plan uses 8.9 kWh, costs 3.7 kr, and emits 0.4 kg CO2, keeping the lowest temperature at 20.0°C. An alternative would lower the temperature by 1.0°C, saving 0.4 kr and -0.0 kg CO2, but it would result in 8.4 degree-hours below the comfort band.",
+  "latency_s": 3.1350493330392055,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 85,
+   "total_tokens": 246,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "af860d246caab5b5b2b87b7c4677713df849afb8a04d12577138c66080246136": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this heating plan, you would use 5.0 kWh, cost 3.1 kr, and emit 0.4 kg CO2, while keeping the lowest temperature at 20.0°C. The alternative would lower the temperature by 1.0°C, but it saves 0.0 kr and 0.0 kg CO2, with 0.0 degree-hours below the comfort band.",
+  "latency_s": 2.687459292006679,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 87,
+   "total_tokens": 248,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "e7b8856df338ef25de355802cccb343e3fdae309945a4cf890542ccf581158c7": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 7.2 kWh, costs 3.8 kr, and emits 0.4 kg CO2, with a lowest indoor temperature of 16.0°C. If you instead lower the temperature by 1.0°C, you would save 0.3 kr and 0.1 kg CO2, but you would have 7.8 degree-hours below the comfort band.",
+  "latency_s": 2.0323505419655703,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 85,
+   "total_tokens": 246,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "6d81f63b477dd5a04650a6f0cd585b45e6ccb44eaeadf507bfdf208db92c088c": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 10.0 kWh, costs 1.8 kr, and emits 0.9 kg CO2, keeping the lowest temperature at 20.0°C. The alternative would be 1.0°C lower, saving 1.0 kr and 0.0 kg CO2, but it would give 7.9 degree-hours below the comfort band.",
+  "latency_s": 2.4366765409940854,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 80,
+   "total_tokens": 241,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "76a572303ef7fe316741c0d73a15c1191400b8196e7902452214c1ccd4b587dc": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 31.4 kWh, costs 22.1 kr, and emits 3.8 kg CO2, with a lowest temperature of 21.0°C. The alternative is 1.0°C lower, saving 1.26 kr and 0.14 kg CO2, but it gives 10.0 degree-hours below the comfort band.",
+  "latency_s": 2.049868750036694,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 78,
+   "total_tokens": 239,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "93fc836ccd25080dbb798b02c6c383f9608363f5fa2aec96198be1a736300171": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 14.7 kWh, costs 12.2 kr, and emits 1.3 kg CO2, with a lowest indoor temperature of 19.6 °C. The alternative is 1.0 °C lower, saving 1.4 kr and 0.3 kg CO2, but it gives 11.2 degree-hours below the comfort band.",
+  "latency_s": 2.2422414160100743,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 79,
+   "total_tokens": 240,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "364629fe933b6e4e6d73d1ebef7e407a370fccfc8637fa99256dabf0892a712c": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 17.0 kWh, costs 11.0 kr, and emits 1.4 kg CO2, with a lowest indoor temperature of 21.0°C. The alternative would be 1.0°C lower, saving 0.4 kr and 0.1 kg CO2, but it would give 9.4 degree-hours below the comfort band.",
+  "latency_s": 2.4063923329813406,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 81,
+   "total_tokens": 242,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "15d078a50fbe4ae0443b072451f4de27b3abfdae55892080e4cb96f800264b5f": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 15.2 kWh, costs 13.2 kr, and emits 2.7 kg CO2, with a lowest temperature of 18.9°C. The alternative is 1.0°C lower, saving 0.98 kr and 0.18 kg CO2, but it gives 7.7 degree-hours below the comfort band.",
+  "latency_s": 2.146734874986578,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 78,
+   "total_tokens": 239,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "65e364e42222ea49deb299148e6d326a971673a1d3ca79e5eb9e9c50826a44c1": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 19.9 kWh, costs 12.96 kr, and emits 2.84 kg CO2, with a lowest indoor temperature of 18.88 °C. The alternative would be 1.0 °C lower, saving 1.14 kr and 0.5 kg CO2, but it would give 9.69 degree-hours below the comfort band.",
+  "latency_s": 2.5586242920253426,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 81,
+   "total_tokens": 242,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "387e65f731bfbde14af3447cca2aa59592aa7d172730adef9b1164dc24d37ca9": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this plan, you would use 9.1 kWh, costing 3.79 kr and emitting 0.41 kg CO2, while the lowest indoor temperature would be 20.72 °C. The alternative is 1.0 °C lower, saving 0.41 kr and -0.0 kg CO2, but it gives 8.56 degree-hours below the comfort band.",
+  "latency_s": 2.52202816598583,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 83,
+   "total_tokens": 244,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "19bdb4695df7c7330b49124b3f5d7b6b2678acde2beddda5bdd7d64e7e87bef1": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your current heating plan uses 5.5 kWh, costs 3.4 kr, and emits 0.5 kg CO2, while keeping the lowest indoor temperature at 21.0 °C. An alternative plan would lower the temperature by 1.0 °C, but it saves 0.0 kr and 0.0 kg CO2, with 0.0 degree-hours below the comfort band.",
+  "latency_s": 2.5883973329910077,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 86,
+   "total_tokens": 247,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "e22cacce81831d50dc9beb9bd3a61d22ad45c4084dac8fe364351c5c65b3cd36": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this plan, you would use 10.4 kWh, costing 5.7 kr and emitting 0.5 kg CO2, while keeping the lowest indoor temperature at 21.0°C. If you instead lower the temperature by 1.0°C, you would save 0.4 kr and 0.1 kg CO2, but the home would spend 9.0 degree-hours below the comfort band.",
+  "latency_s": 2.724282708019018,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 90,
+   "total_tokens": 251,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "9d3075304e1279aec86bbbdb4b7b9f37951dce963602faeeba4b3299226db235": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 10.3 kWh, costs 2.0 kr, and emits 0.9 kg CO2, with a lowest indoor temperature of 20.7 °C. The alternative would be 1.0 °C lower, saving 1.1 kr and 0.0 kg CO2, but adding 8.3 degree-hours below the comfort band.",
+  "latency_s": 1.9095366669935174,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 79,
+   "total_tokens": 240,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "35cf137f083ae76cf39863bfd783a45a74f3c1d2efb8487465295e0497cb6a6b": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 30.4 kWh, costs 20.7 kr, and emits 3.5 kg CO2, with a lowest indoor temperature of 21.0°C. If you instead lower the temperature by 1.0°C, you would save 1.0 kr and 0.1 kg CO2, but you’d have 8.6 degree-hours below the comfort band.",
+  "latency_s": 2.4271772500360385,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 86,
+   "total_tokens": 247,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "89539f6c158984cfd80723c3682eff06643f7b626b0d8ef15b9080e248cc0770": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 6.5 kWh, costs 5.3 kr, and emits 0.8 kg CO2, with a lowest indoor temperature of 17.5 °C. If you instead lower the temperature by 1.0 °C, you would save 0.9 kr and 0.3 kg CO2, but you would have 8.9 degree-hours below the comfort band.",
+  "latency_s": 2.2353085419745184,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 85,
+   "total_tokens": 246,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "2a6ff8b72328ddc8f31f3402861846a19f1e67503dd1aa0bfaa4c7f50b366ab1": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your current heating plan uses 17.2 kWh, costs 10.9 kr, and emits 1.4 kg CO2, keeping the lowest temperature at 21.0°C. If you lower the temperature by 1.0°C, you would save 0.4 kr and 0.1 kg CO2, but the home would be below the comfort band for 8.2 degree-hours.",
+  "latency_s": 2.5382947089965455,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 87,
+   "total_tokens": 248,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "c3144322a6fab1c8df425c4708f5f2e6022657774798c2f48363df4799cdc627": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 14.3 kWh, costs 11.83 kr, and emits 2.89 kg CO2, with a lowest indoor temperature of 20.65 °C. The alternative would be 1.0 °C lower, saving 0.85 kr and 0.15 kg CO2, but it would give 10.1 degree-hours below the comfort band.",
+  "latency_s": 2.2362263750401326,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 81,
+   "total_tokens": 242,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "51f9e3618f178aef53a9689df3193203ef0809a7bc20dda9e7ef06c5c73c644a": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 18.7 kWh, costs 11.98 kr, and emits 2.77 kg CO2, with a lowest temperature of 21.0°C. The alternative is 1.0°C lower, saving 0.98 kr and 0.41 kg CO2, but it gives 11.44 degree-hours below the comfort band.",
+  "latency_s": 2.494739749992732,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 78,
+   "total_tokens": 239,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "eaaec7110ba120553032725c9c4050edbe25af744b82407e77ca4ff4fe55f5a6": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 9.4 kWh, costs 4.3 kr, and emits 0.4 kg CO2, keeping the home at a lowest temperature of 21.0°C. The alternative is 1.0°C lower, saving 0.4 kr and 0.0 kg CO2, but it adds 8.6 degree-hours below the comfort band.",
+  "latency_s": 2.569274291046895,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 81,
+   "total_tokens": 242,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "cfacbf447e6f248a519e5a28d5ef8c7ba7680e13d1db2551a9d591cfb99e3b24": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 6.5 kWh, costs 4.3 kr, and emits 0.7 kg CO2, with a lowest indoor temperature of 20.8°C. The alternative is 1.0°C lower, saves 0.1 kr, changes CO2 by 0.0 kg, and has 1.0 degree-hours below the comfort band.",
+  "latency_s": 2.7843064999906346,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 80,
+   "total_tokens": 241,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "5ec4ddf108fe899d56556e5af99bee8bb09c2d72fc3d011f65f506c705648422": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this heating plan, you would use 10.1 kWh, cost 5.8 kr, and emit 0.5 kg CO2, while the lowest indoor temperature would be 20.6 °C. If you instead lower the temperature by 1.0 °C, you would save 0.4 kr and 0.0 kg CO2, but you would have 9.6 degree-hours below the comfort band.",
+  "latency_s": 2.5192113750381395,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 91,
+   "total_tokens": 252,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "c753d86d54e2755539ff2fc6b20d0ec8f7f7df20193613577f3bad5dc11f263e": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "With this heating plan, you would use 11.1 kWh, costing 2.3 kr and releasing 1.0 kg CO2, while keeping the home at a lowest temperature of 21.0°C. If you instead lower the temperature by 1.0°C, you would save 1.2 kr and 0.0 kg CO2, but the home would be below the comfort band for 9.0 degree-hours.",
+  "latency_s": 2.884238041995559,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 94,
+   "total_tokens": 255,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "6a3f3eaa4aa208524c71394caa054f3151782fc0b17664f00b5f1903d973cf40": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "This plan uses 16.0 kWh, costs 14.2 kr, and releases 1.6 kg CO2, keeping the home at a lowest temperature of 20.1 °C. If you instead lower the temperature by 1.0 °C, you would save 2.0 kr and 0.3 kg CO2, but the home would spend 12.5 degree-hours below the comfort band.",
+  "latency_s": 2.602696332964115,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 88,
+   "total_tokens": 249,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "307ff6a58f940d5142c2df61ae49743111422869406967fbfbad0476080c839b": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 17.3 kWh, costs 11.3 kr, and emits 1.4 kg CO2, with a lowest temperature of 21.5°C. The alternative is 1.0°C lower, saves 0.4 kr and 0.1 kg CO2, but gives 10.8 degree-hours below the comfort band.",
+  "latency_s": 2.1682075830176473,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 77,
+   "total_tokens": 238,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "49b80bdd84d7b5d5ac6dd9177cc59031f3ecdd70ce60dcae28c4f7e63ab72bef": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "The plan uses 16.0 kWh, costs 14.17 kr, and emits 2.91 kg CO2, with a lowest indoor temperature of 19.39 °C. The alternative sets the temperature 1.0 °C lower, saving 1.24 kr and 0.18 kg CO2, but it results in 11.56 degree-hours below the comfort band.",
+  "latency_s": 2.093248249962926,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 82,
+   "total_tokens": 243,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ },
+ "caf5bb4052df649766e148dbd0c3e6ca6b7c426eb05c3cf69fcebf6ebe0d0563": {
+  "model": "deepseek:deepseek-v4-pro",
+  "content": "Your plan uses 13.0 kWh, costs 8.42 kr, and emits 1.85 kg CO2, with a lowest temperature of 16.0 °C. The alternative is 1.0 °C lower, saving 0.79 kr and 0.42 kg CO2, but it adds 12.52 degree-hours below the comfort band.",
+  "latency_s": 2.5349100409657694,
+  "usage": {
+   "prompt_tokens": 161,
+   "completion_tokens": 78,
+   "total_tokens": 239,
+   "prompt_tokens_details": {
+    "cached_tokens": 0
+   },
+   "prompt_cache_hit_tokens": 0,
+   "prompt_cache_miss_tokens": 161
+  }
+ }
+}

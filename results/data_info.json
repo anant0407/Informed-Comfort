@@ -1,0 +1,33 @@
+{
+  "start_local": "2025-12-01 00:00:00+01:00",
+  "end_local": "2026-02-28 23:00:00+01:00",
+  "rows_hourly": 2160,
+  "hours_interpolated": {
+    "price": 0,
+    "co2": 0,
+    "co2_fc": 0,
+    "t_out": 0,
+    "solar": 0
+  },
+  "raw_records": {
+    "co2_actual_5min": 25917,
+    "co2_forecast_5min": 25920,
+    "prices_15min": 8640,
+    "complete_5min": 25920,
+    "complete_15min": 8640
+  },
+  "price_datasets": [
+    "DayAheadPrices"
+  ],
+  "mean_price_kr_kwh": 0.7071250347215278,
+  "min_price_kr_kwh": 0.019045694999999998,
+  "max_price_kr_kwh": 2.07226917925,
+  "mean_co2_actual_g_kwh": 113.57435699588477,
+  "mean_co2_forecast_g_kwh": 115.85810185185187,
+  "co2_forecast_mae_g_kwh": 4.5164609053497955,
+  "mean_t_out_c": 1.542037037037037,
+  "min_t_out_c": -10.0,
+  "max_t_out_c": 11.5,
+  "mean_solar_w_m2": 23.589814814814815,
+  "corr_price_co2": 0.3747790650093316
+}

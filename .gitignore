@@ -1,0 +1,34 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets: holds DEEPSEEK_API_KEY
+.env
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# External dataset: only ds2-minimal-PT30M-including-forecasts.csv is used
+data_external/knudsen6/6_datasets.zip
+data_external/knudsen6/ds2-detailed-*.csv
+
+# AI agent instructions and state
+CLAUDE.md
+CLAUDE.local.md
+SPEC.md
+.claude/
+AGENTS.md
+GEMINI.md
+.gemini/
+.cursor/
+.cursorrules
+.cursorignore
+.windsurfrules
+.github/copilot-instructions.md
+.aider*
+.codex/
+.continue/
