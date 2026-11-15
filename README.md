@@ -286,3 +286,11 @@ On the Windows PC (RTX 4070 Ti 12 GB), in PowerShell from the project folder:
 | `qwen2.5:14b` | 9.0 GB | strong at structured JSON; multilingual |
 | `gemma3:12b` | 8.1 GB | multilingual; good instruction following |
 | `qwen3:14b` | 9.3 GB | newer "thinking" model; structured output not tested here |
+
+
+
+### Declaration of AI-Assisted Tools Usage
+AI-assisted tools and code autocompletion features were used in a limited capacity during the development of the code, primarily for minor syntax-related assistance, code completion, formatting, comments. Where code snippets were suggested or generated, they were guided by my own conceptual understanding, problem-solving approach, logic, and independently developed algorithms. The underlying methodology, algorithmic design, implementation decisions, and interpretation of results reflect my own work. AI tools were not used to independently develop the core algorithms or determine the research methodology.
+
+AI assistance was used to generate the initial draft of the project's README documentation. I
+reviewed, edited, and validated the generated documentation to ensure its accuracy and consistency with the actual implementation, design decisions, and functionality of the project. The final README reflects my instructions and understanding of the work.
